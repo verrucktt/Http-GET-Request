@@ -9,6 +9,8 @@ import java.util.HashMap;
  @author Veruktt
  @since 12/04/2022
  @version 1.0
+ testing github
+
  */
 public class HttpGetRequest {
 
