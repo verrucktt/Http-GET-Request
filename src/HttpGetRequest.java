@@ -62,7 +62,7 @@ public class HttpGetRequest {
     }
 
     /**
-     * Sends a GET request to api end point, do not use if you need query params only path params
+     * Sends a GET request to api end point, use if you need query params only path params
      * @param apiEndPoint the url of the api end point, if you need path params it should be included here
      * @param queryParams the query parameters required for the api endpoint
      * @return the body of the api as a java string
